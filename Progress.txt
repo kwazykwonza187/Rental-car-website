@@ -1,0 +1,8 @@
+Created: 
+
+Scope/Requirements document
+Created a google drive collab folder
+Created a Github repository for code
+
+Need work on MVC further then use this to code the rental car website
+Need create a project plan (word document)
