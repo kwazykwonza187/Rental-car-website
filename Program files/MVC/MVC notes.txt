@@ -1,0 +1,9 @@
+coding horror mvc
+
+Understanding MVC from asp.net point of view
+
+mvc 4
+
+Open as a project.
+
+Add database functionality next 
